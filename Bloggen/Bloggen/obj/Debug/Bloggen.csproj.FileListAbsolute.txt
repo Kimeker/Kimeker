@@ -1,7 +1,0 @@
-C:\Skola\Programmering1\Bloggen\Bloggen\obj\Debug\Bloggen.csproj.AssemblyReference.cache
-C:\Skola\Programmering1\Bloggen\Bloggen\obj\Debug\Bloggen.csproj.CoreCompileInputs.cache
-C:\Skola\Programmering1\Bloggen\Bloggen\bin\Debug\Bloggen.exe.config
-C:\Skola\Programmering1\Bloggen\Bloggen\bin\Debug\Bloggen.exe
-C:\Skola\Programmering1\Bloggen\Bloggen\bin\Debug\Bloggen.pdb
-C:\Skola\Programmering1\Bloggen\Bloggen\obj\Debug\Bloggen.exe
-C:\Skola\Programmering1\Bloggen\Bloggen\obj\Debug\Bloggen.pdb
